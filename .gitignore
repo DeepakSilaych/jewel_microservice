@@ -1,0 +1,13 @@
+env/
+.env
+.pycaches/
+__pycache__/
+*.pyc
+*.pyo
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+config.py
